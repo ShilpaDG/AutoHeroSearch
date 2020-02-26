@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81374" started-at="2020-02-26T19:30:14Z" finished-at="2020-02-26T19:31:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="81374" started-at="2020-02-26T19:30:14Z" finished-at="2020-02-26T19:31:35Z">
+      <class name="com.AutoHero.Testcases.WebTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.AutoHero.Testcases.WebTest@18be83e4]" name="setup" is-config="true" duration-ms="129" started-at="2020-02-27T01:00:14Z" finished-at="2020-02-27T01:00:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:com.AutoHero.Testcases.WebTest@18be83e4]" name="launchApplication" is-config="true" duration-ms="9758" started-at="2020-02-27T01:00:14Z" finished-at="2020-02-27T01:00:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="autoSearchTest()[pri:0, instance:com.AutoHero.Testcases.WebTest@18be83e4]" name="autoSearchTest" duration-ms="70470" started-at="2020-02-27T01:00:24Z" finished-at="2020-02-27T01:01:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoSearchTest -->
+        <test-method status="PASS" signature="closeBroswer()[pri:0, instance:com.AutoHero.Testcases.WebTest@18be83e4]" name="closeBroswer" is-config="true" duration-ms="789" started-at="2020-02-27T01:01:34Z" finished-at="2020-02-27T01:01:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBroswer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AutoHero.Testcases.WebTest@18be83e4]" name="tearDown" is-config="true" duration-ms="347" started-at="2020-02-27T01:01:35Z" finished-at="2020-02-27T01:01:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AutoHero.Testcases.WebTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
